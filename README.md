@@ -4,6 +4,7 @@
 - Présentation du projet
 
 Ceci est la notice d'utilisation pour le fichier "main.py" présent dans le dépôt GitHub: Ce programme servira à la création d'un système de surveillance des prix pour le site BookToScrape.
+Le fichier "main" est contenu dans le dossier "Nice_One"
 Il sert à recueillir toutes les données des livres du site et les placera dans un fichier .CSV différent pour chaque catégorie de livres et téléchargera les couvertures des livres dans un autre dossier. 
 
 
