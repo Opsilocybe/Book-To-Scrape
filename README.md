@@ -40,6 +40,4 @@ Pendant le téléchargement de toutes les données le module TQDM va fournir une
 Le programme peut être amélioré en regroupant les images par catégories de livres dans des dossiers séparés.
 
 
-- Licence
 
-Fait avec python 3
