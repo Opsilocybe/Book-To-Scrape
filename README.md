@@ -1,4 +1,4 @@
------------------------------------------------------------------------------               READ ME             -------------------------------------------------------------------------
+-----------------------------------------------------------------------------               READ ME             ---------------------------------------------------------------------
 - Présentation du projet
 
 Ceci est la notice d'utilisation pour le fichier "main.py" présent dans le dépôt GitHub: Ce programme servira à la création d'un système de surveillance des prix pour le site BookToScrape.
